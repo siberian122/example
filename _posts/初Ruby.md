@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dinosaurs are extinct today"
-subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
-date: 2020-01-26 23:45:13 -0400
+title: "初Ruby"
+date: 2020-9-3
 background: '/img/posts/01.jpg'
+categories: Jekyll
 ---
 初めてRubyを触りました。
 
@@ -13,3 +13,4 @@ background: '/img/posts/01.jpg'
 {% highlight shell %}
 gem install ---
 {%endhighlight %}
+~~~git　commit -m"" とかを考えれば当然っだけど...~~~
